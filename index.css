@@ -1,0 +1,23 @@
+.table-qlianh {
+    margin-left: auto; 
+    margin-right: auto;
+    width: 80%;
+}
+th, td {
+    padding: 8px;
+    border: 1px solid #dee2e6;
+}
+th {
+    height: 40px;
+    vertical-align: bottom;
+}
+
+h3 {
+    display: inline;
+
+
+}
+
+.btn-sbtn-success {
+    display: inline;
+}
